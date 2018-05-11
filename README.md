@@ -5,13 +5,12 @@ kubernetes cluster build deps images
 # Current version for k8s: 
 
 ```
---> |-> v1.6.0 (master)
-    |-> v1.5.2
+--> |-> v1.9.0 (master)
 ```
 
 # Docker Hup:
 
-https://hub.docker.com/r/k8scn/
+https://hub.docker.com/r/taylor3/
 
 # Images list:
 
